@@ -1,23 +1,45 @@
 {
-  "nome": "João Silva",
+  "nome": "Mariana Costa",
   "idade": 32,
-  "profissao": "Analista de Sistemas",
+  "profissao": "Engenheira de Software",
   "renda_mensal": 5000.00,
   "perfil_investidor": "moderado",
   "objetivo_principal": "Construir reserva de emergência",
   "patrimonio_total": 15000.00,
   "reserva_emergencia_atual": 10000.00,
   "aceita_risco": false,
+  "despesas_mensais": {
+    "moradia": 1380.00,
+    "alimentacao": 680.00,
+    "transporte": 333.00,
+    "saude": 188.00,
+    "lazer": 90.00,
+    "outros": 63.50
+  },
   "metas": [
     {
       "meta": "Completar reserva de emergência",
       "valor_necessario": 15000.00,
-      "prazo": "2026-06"
+      "prazo": "2026-06",
+      "concluido_percentual": 66.7
     },
     {
       "meta": "Entrada do apartamento",
       "valor_necessario": 50000.00,
-      "prazo": "2027-12"
+      "prazo": "2027-12",
+      "concluido_percentual": 30.0
     }
-  ]
+  ],
+  "preferencias_alertas": {
+    "limite_mensal_categoria": true,
+    "micro_gastos": true,
+    "desvios_orcamento": true
+  },
+  "preferencias_comunicacao": {
+    "tom": "informal",
+    "educativo": true,
+    "frequencia_alertas": "diaria"
+  }
+}
+
 }
