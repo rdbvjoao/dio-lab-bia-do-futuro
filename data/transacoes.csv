@@ -7,5 +7,12 @@ data,descricao,categoria,valor,tipo
 2025-10-10,Restaurante,alimentacao,120.00,saida
 2025-10-12,Uber,transporte,45.00,saida
 2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+2025-10-17,Academia,saude,99.00,saida
+2025-10-20,Combustível,transporte,250.00,saida
+2025-10-22,Café da manhã,alimentacao,15.50,saida
+2025-10-23,Padaria,alimentacao,28.00,saida
+2025-10-25,Uber,transporte,38.00,saida
+2025-10-27,Spotify,lazer,34.90,saida
+2025-10-28,Restaurante,alimentacao,65.00,saida
+2025-10-30,Café Starbucks,alimentacao,18.50,saida
+
